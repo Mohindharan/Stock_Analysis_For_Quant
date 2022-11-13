@@ -196,14 +196,6 @@ Long Butterfly with Put
 Protective Collar
 
 
-# 👋 Have you enjoyed learning "Stock Analysis for Quant" and want to support me?  
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lastancientone)
-
-## Credits:
-### Developed by Tin Hang and other contributors (sharing knowledge) from schools, books, and blogs.
-### Creators who creates programming libraries for people to use.  
-
 ### Links to research paper for quant:  
 https://www.researchgate.net (European Social networking site for scientists and researchers to share papers)  
 https://www.academia.edu/ (Academics and Researchers to share educational papers from all over the worlds)  
@@ -212,13 +204,3 @@ https://capital.com/financial-dictionary (Financial terms)
 http://www.performance-metrics.eu/performance_glossary.php (Performance Metrics)  
 http://morningstardirect.morningstar.com/clientcomm/customcalculations.pdf (Financial Calculations)   
 https://www.optionstrading.org/strategies/a-z-list/ (Options Trading Strategies)  
-
-
-# Disclaimer & Warning
-## :warning:
-#### None of my content is meant to be construed as investment advice; it's for educational purposes only. Do not use this code for investing or trading in the stock market or real trading. All of my contents are strictly personal opinions. Please make sure to do your own research. Never take one person's opinion for financial guidance. There are multiple strategies, and not all strategies fit all people. My contents ARE NOT financial advice. You should do your research when picking stocks, ETFs, options or cryptocurrencies to invest in. However, if you are interested in the stock market, you should read :books: books, research papers, and :computer: blog that relate to the stock market, investment, or finance. On the other hand, if you are into quant, read books about machine learning or deep learning. Books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. Do experiments on stock historical prices and test different strategies or methods to see if they works or not. Learn from it and take notes :notebook:.
-
-
-## 🔴 This is not get rich quick.  
-## 🔴 This is not financial advisor.   
-## 🔴 This is for researching and educational purposes.
